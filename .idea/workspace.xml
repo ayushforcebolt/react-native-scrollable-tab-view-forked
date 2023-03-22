@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="601a0543-d684-4428-bdb6-dab8900d8d8b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrollableTabBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/ScrollableTabBar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,8 @@
       <updated>1679411265503</updated>
       <workItem from="1679411271038" duration="278000" />
       <workItem from="1679411716993" duration="92000" />
-      <workItem from="1679411831728" duration="12000" />
+      <workItem from="1679411831728" duration="39000" />
+      <workItem from="1679477383139" duration="16000" />
     </task>
     <servers />
   </component>
